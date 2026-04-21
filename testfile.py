@@ -1,5 +1,6 @@
 # practice.py
 #미친놈아 그만해라
+#git clone 제발...
 
 
 def calculate_average(numbers):
